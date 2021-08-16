@@ -26,11 +26,15 @@
 > ##### TextButton, ElevatedButton, OutlineButton, TextButton.Icon, ButtonBar 등
 <br>
 
-# Multiplex
-> ## 로그인(Log in)과 주사위(dice) 게임 플러터 앱
+> ## login_dicegame (로그인(Log in)과 주사위(dice) 게임 플러터 앱)
 > ##### - GestureDetector: 빈 공간 클릭 시 엔터효과, 두번 클릭, 드래그 등
 > ##### - onTap: 클릭 포함 여러 이벤트
 > ##### - FocusScope.of(context).unfocus() 포커스를 해제한다.
 > ##### - onPressed: 클릭 시 발생하는 이벤트
+> ##### - dart:math의 Random, Expanded, Toast 사용
+> ##### - random하게 변하는 주사위 변수를 설정, showToast() 생성 후 주사위 숫자에 따라 변하는 메시지 알림 생성
+<br>
 
+> ## longin2.dart (로그인 페이지:코드 리팩토링(rafactoring))
+> ##### -
 <br>
