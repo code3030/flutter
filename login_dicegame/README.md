@@ -1,4 +1,4 @@
-# login_dicegame
+# stateful
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-package com.example.login_dicegame
+package com.example.stateful
 
 import io.flutter.embedding.android.FlutterActivity
 
