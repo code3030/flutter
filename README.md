@@ -39,4 +39,5 @@
 > ##### - google button
 > #####     1.로고 이미지 2.텍스트 3.버튼 색상 4.버튼 모서리 둥글기 5.onPressed()
 > ##### 1.buildButton 함수화 2._buildButton (private: 같은 폴더 내에서만 작동=외부에서 불필요한 접근 방지)
+> ##### LogIn() 페이지 생성, MyButton(), 필요한 객체 파라미터로 전달
 <br>
